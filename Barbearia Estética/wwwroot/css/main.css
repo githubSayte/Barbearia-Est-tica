@@ -37,7 +37,7 @@
     padding: 0;
     text-decoration: none;
     text-transform: none;
-    border: none;
+    border: #ffff;
     outline: none;
     -webkit-transition: all 0.2s linear;
        -moz-transition: all 0.2s linear;
@@ -233,7 +233,7 @@ header #menu-btn:hover{
 }
 
 .home .box-container{
-    min-height: 100vh;
+    min-height: 75vh;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -246,6 +246,7 @@ header #menu-btn:hover{
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
     gap: 4rem;
+
 }
 
 .home .image{
@@ -322,8 +323,8 @@ header #menu-btn:hover{
     justify-content: center;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
-    gap: 2rem;
-    padding: 2rem 0;
+    gap: 5rem;
+    padding: 10rem 0;
 }
 
 .about .image{
@@ -338,8 +339,8 @@ header #menu-btn:hover{
 
 .about .content{
     -webkit-box-flex: 1;
-    -ms-flex: 1 1 55rem;
-        flex: 1 1 55rem;
+    -ms-flex: 1 1 75rem;
+        flex: 1 1 75rem;
 }
 
 .about .content h2{
@@ -377,7 +378,7 @@ header #menu-btn:hover{
 }
 
 .about .content .about-info .info h4{
-    font-size: 1.6rem;
+    font-size: 2.6rem;
     color: var(--white);
     padding-bottom: 1rem;
 }
@@ -509,7 +510,7 @@ header #menu-btn:hover{
 
 
 /*--------------------- 6- Qualification Area CSS (Start) ---------------------*/
-.qualification .box-container{
+.qualification .box-container {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -522,6 +523,7 @@ header #menu-btn:hover{
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
     gap: 4rem;
+    
 }
 
 .education, .experience{
@@ -531,12 +533,12 @@ header #menu-btn:hover{
 }
 
 .experience-item{
-    position: relative;
+    position: page;
     -webkit-box-flex: 1;
-    -ms-flex: 1 1 40rem;
-        flex: 1 1 40rem;
+    -ms-flex: 1 1 20rem;
+        flex: 1 1 20rem;
     padding: 0 3rem 2rem 3rem;
-    border-left: 0.2rem solid var(--purple);
+    border-left: 0.2rem solid #ffff;
     margin-left: 2rem;
 }
 
@@ -585,7 +587,7 @@ header #menu-btn:hover{
 
 
 /*--------------------- 7- Services Area CSS (Start) ---------------------*/
-.service .box-container{
+.service .box-container {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -598,6 +600,7 @@ header #menu-btn:hover{
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
     gap: 1.5rem;
+    
 }
 
 .service-item{
@@ -899,9 +902,9 @@ header #menu-btn:hover{
 }
 
 .blog-item{
-    background-color: #fff;
-    border: 0.1rem solid var(--purple);
-    border-radius: 0.5rem;
+    background-color: #ffff;
+    border: 0.1rem  var(--purple);
+    border-radius: 0.2rem;
     overflow: hidden;
 }
 
@@ -943,7 +946,7 @@ header #menu-btn:hover{
 
 .blog-item .content .intro h5 i{
     color: var(--purple);
-    padding-right: 0.5rem;
+    padding-right: 0.2rem;
 }
 
 .blog-item .content .intro h5 span{
@@ -1040,7 +1043,7 @@ header #menu-btn:hover{
     color: var(--purple);
     display: -webkit-box;
     display: -ms-flexbox;
-    display: flex;;
+    display: flex;
     -webkit-box-pack: center;
     -ms-flex-pack: center;
     justify-content: center;

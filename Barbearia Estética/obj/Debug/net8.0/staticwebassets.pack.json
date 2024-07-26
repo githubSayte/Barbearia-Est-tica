@@ -433,6 +433,22 @@
       "PackagePath": "staticwebassets\\lib\\swiper\\swiper-bundle.min.js.map"
     },
     {
+      "Id": "C:\\Users\\Aluno Noite\\Área de Trabalho\\Aluno da Manhã\\Barbearia Estética\\Barbearia Estética\\wwwroot\\php\\smtp\\PHPMailerAutoload.php",
+      "PackagePath": "staticwebassets\\php\\smtp\\PHPMailerAutoload.php"
+    },
+    {
+      "Id": "C:\\Users\\Aluno Noite\\Área de Trabalho\\Aluno da Manhã\\Barbearia Estética\\Barbearia Estética\\wwwroot\\php\\smtp\\class.phpmailer.php",
+      "PackagePath": "staticwebassets\\php\\smtp\\class.phpmailer.php"
+    },
+    {
+      "Id": "C:\\Users\\Aluno Noite\\Área de Trabalho\\Aluno da Manhã\\Barbearia Estética\\Barbearia Estética\\wwwroot\\php\\smtp\\class.smtp.php",
+      "PackagePath": "staticwebassets\\php\\smtp\\class.smtp.php"
+    },
+    {
+      "Id": "C:\\Users\\Aluno Noite\\Área de Trabalho\\Aluno da Manhã\\Barbearia Estética\\Barbearia Estética\\wwwroot\\php\\submit.php",
+      "PackagePath": "staticwebassets\\php\\submit.php"
+    },
+    {
       "Id": "C:\\Users\\Aluno Noite\\Área de Trabalho\\Aluno da Manhã\\Barbearia Estética\\Barbearia Estética\\wwwroot\\vendors\\font-awesome\\css\\all.css",
       "PackagePath": "staticwebassets\\vendors\\font-awesome\\css\\all.css"
     },

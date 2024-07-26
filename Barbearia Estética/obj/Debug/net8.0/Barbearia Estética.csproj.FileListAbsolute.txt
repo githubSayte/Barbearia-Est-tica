@@ -28,3 +28,4 @@ C:\Users\Aluno Noite\Área de Trabalho\Aluno da Manhã\Barbearia Estética\Barbe
 C:\Users\Aluno Noite\Área de Trabalho\Aluno da Manhã\Barbearia Estética\Barbearia Estética\obj\Debug\net8.0\Barbearia Estética.pdb
 C:\Users\Aluno Noite\Área de Trabalho\Aluno da Manhã\Barbearia Estética\Barbearia Estética\obj\Debug\net8.0\Barbearia Estética.genruntimeconfig.cache
 C:\Users\Aluno Noite\Área de Trabalho\Aluno da Manhã\Barbearia Estética\Barbearia Estética\obj\Debug\net8.0\ref\Barbearia Estética.dll
+C:\Users\Aluno Noite\Área de Trabalho\Aluno da Manhã\Barbearia Estética\Barbearia Estética\obj\Debug\net8.0\Barbearia Estética.sourcelink.json
