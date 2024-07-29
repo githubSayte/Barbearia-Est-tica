@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aluno Noite\\Área de Trabalho\\Aluno da Manhã\\Barbearia Estética\\Barbearia Estética\\Barbearia Estética.csproj",
+      "projectUniqueName": "C:\\Users\\Aluno Noite\\OneDrive\\Área de Trabalho\\Barbearia Estética\\Barbearia Estética\\Barbearia Estética.csproj",
       "projectName": "Barbearia Estética",
-      "projectPath": "C:\\Users\\Aluno Noite\\Área de Trabalho\\Aluno da Manhã\\Barbearia Estética\\Barbearia Estética\\Barbearia Estética.csproj",
+      "projectPath": "C:\\Users\\Aluno Noite\\OneDrive\\Área de Trabalho\\Barbearia Estética\\Barbearia Estética\\Barbearia Estética.csproj",
       "packagesPath": "C:\\Users\\Aluno Noite\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aluno Noite\\Área de Trabalho\\Aluno da Manhã\\Barbearia Estética\\Barbearia Estética\\obj\\",
+      "outputPath": "C:\\Users\\Aluno Noite\\OneDrive\\Área de Trabalho\\Barbearia Estética\\Barbearia Estética\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aluno Noite\\AppData\\Roaming\\NuGet\\NuGet.Config",

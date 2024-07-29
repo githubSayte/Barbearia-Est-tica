@@ -4,11 +4,11 @@ using System.Diagnostics;
 
 namespace Barbearia_Estética.Controllers
 {
-    public class HomeController : Controller
+    public class ServicoController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly ILogger<ServicoController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+        public ServicoController(ILogger<ServicoController> logger)
         {
             _logger = logger;
         }
@@ -17,8 +17,14 @@ namespace Barbearia_Estética.Controllers
         {
             return View();
         }
-
-        
+        public IActionResult Cadastro()
+        {
+            return View();
+        }
+        public IActionResult Login()
+        {
+            return View();
+        }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

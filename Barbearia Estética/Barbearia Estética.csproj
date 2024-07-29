@@ -21,4 +21,11 @@
     <Folder Include="wwwroot\vendors\typed\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Content Update="Views\Agendamento\AgendamentoUsuario.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
 </Project>

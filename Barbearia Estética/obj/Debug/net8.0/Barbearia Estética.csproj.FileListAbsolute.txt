@@ -29,3 +29,96 @@ C:\Users\Aluno Noite\Área de Trabalho\Aluno da Manhã\Barbearia Estética\Barbe
 C:\Users\Aluno Noite\Área de Trabalho\Aluno da Manhã\Barbearia Estética\Barbearia Estética\obj\Debug\net8.0\Barbearia Estética.genruntimeconfig.cache
 C:\Users\Aluno Noite\Área de Trabalho\Aluno da Manhã\Barbearia Estética\Barbearia Estética\obj\Debug\net8.0\ref\Barbearia Estética.dll
 C:\Users\Aluno Noite\Área de Trabalho\Aluno da Manhã\Barbearia Estética\Barbearia Estética\obj\Debug\net8.0\Barbearia Estética.sourcelink.json
+C:\Users\Aluno Noite\Área de Trabalho\Aluno da Manhã\Barbearia Estética\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Aluno Noite\Área de Trabalho\Aluno da Manhã\Barbearia Estética\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\bin\Debug\net8.0\appsettings.json
+C:\Users\Aluno Noite\Área de Trabalho\Aluno da Manhã\Barbearia Estética\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\bin\Debug\net8.0\Barbearia Estética.staticwebassets.runtime.json
+C:\Users\Aluno Noite\Área de Trabalho\Aluno da Manhã\Barbearia Estética\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\bin\Debug\net8.0\Barbearia Estética.exe
+C:\Users\Aluno Noite\Área de Trabalho\Aluno da Manhã\Barbearia Estética\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\bin\Debug\net8.0\Barbearia Estética.deps.json
+C:\Users\Aluno Noite\Área de Trabalho\Aluno da Manhã\Barbearia Estética\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\bin\Debug\net8.0\Barbearia Estética.runtimeconfig.json
+C:\Users\Aluno Noite\Área de Trabalho\Aluno da Manhã\Barbearia Estética\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\bin\Debug\net8.0\Barbearia Estética.dll
+C:\Users\Aluno Noite\Área de Trabalho\Aluno da Manhã\Barbearia Estética\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\bin\Debug\net8.0\Barbearia Estética.pdb
+C:\Users\Aluno Noite\Área de Trabalho\Aluno da Manhã\Barbearia Estética\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\obj\Debug\net8.0\Barbearia Estética.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno Noite\Área de Trabalho\Aluno da Manhã\Barbearia Estética\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\obj\Debug\net8.0\Barbearia Estética.AssemblyInfoInputs.cache
+C:\Users\Aluno Noite\Área de Trabalho\Aluno da Manhã\Barbearia Estética\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\obj\Debug\net8.0\Barbearia Estética.AssemblyInfo.cs
+C:\Users\Aluno Noite\Área de Trabalho\Aluno da Manhã\Barbearia Estética\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\obj\Debug\net8.0\Barbearia Estética.csproj.CoreCompileInputs.cache
+C:\Users\Aluno Noite\Área de Trabalho\Aluno da Manhã\Barbearia Estética\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\obj\Debug\net8.0\Barbearia Estética.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aluno Noite\Área de Trabalho\Aluno da Manhã\Barbearia Estética\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\obj\Debug\net8.0\Barbearia Estética.RazorAssemblyInfo.cache
+C:\Users\Aluno Noite\Área de Trabalho\Aluno da Manhã\Barbearia Estética\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\obj\Debug\net8.0\Barbearia Estética.RazorAssemblyInfo.cs
+C:\Users\Aluno Noite\Área de Trabalho\Aluno da Manhã\Barbearia Estética\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\obj\Debug\net8.0\Barbearia Estética.sourcelink.json
+C:\Users\Aluno Noite\Área de Trabalho\Aluno da Manhã\Barbearia Estética\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Aluno Noite\Área de Trabalho\Aluno da Manhã\Barbearia Estética\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Aluno Noite\Área de Trabalho\Aluno da Manhã\Barbearia Estética\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\obj\Debug\net8.0\staticwebassets\msbuild.Barbearia Estética.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aluno Noite\Área de Trabalho\Aluno da Manhã\Barbearia Estética\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\obj\Debug\net8.0\staticwebassets\msbuild.build.Barbearia Estética.props
+C:\Users\Aluno Noite\Área de Trabalho\Aluno da Manhã\Barbearia Estética\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Barbearia Estética.props
+C:\Users\Aluno Noite\Área de Trabalho\Aluno da Manhã\Barbearia Estética\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Barbearia Estética.props
+C:\Users\Aluno Noite\Área de Trabalho\Aluno da Manhã\Barbearia Estética\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Aluno Noite\Área de Trabalho\Aluno da Manhã\Barbearia Estética\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Aluno Noite\Área de Trabalho\Aluno da Manhã\Barbearia Estética\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\obj\Debug\net8.0\scopedcss\bundle\Barbearia Estética.styles.css
+C:\Users\Aluno Noite\Área de Trabalho\Aluno da Manhã\Barbearia Estética\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\obj\Debug\net8.0\scopedcss\projectbundle\Barbearia Estética.bundle.scp.css
+C:\Users\Aluno Noite\Área de Trabalho\Aluno da Manhã\Barbearia Estética\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\obj\Debug\net8.0\Barbearia Estética.dll
+C:\Users\Aluno Noite\Área de Trabalho\Aluno da Manhã\Barbearia Estética\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\obj\Debug\net8.0\refint\Barbearia Estética.dll
+C:\Users\Aluno Noite\Área de Trabalho\Aluno da Manhã\Barbearia Estética\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\obj\Debug\net8.0\Barbearia Estética.pdb
+C:\Users\Aluno Noite\Área de Trabalho\Aluno da Manhã\Barbearia Estética\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\obj\Debug\net8.0\Barbearia Estética.genruntimeconfig.cache
+C:\Users\Aluno Noite\Área de Trabalho\Aluno da Manhã\Barbearia Estética\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\obj\Debug\net8.0\ref\Barbearia Estética.dll
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\bin\Debug\net8.0\appsettings.json
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\bin\Debug\net8.0\Barbearia Estética.staticwebassets.runtime.json
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\bin\Debug\net8.0\Barbearia Estética.exe
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\bin\Debug\net8.0\Barbearia Estética.deps.json
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\bin\Debug\net8.0\Barbearia Estética.runtimeconfig.json
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\bin\Debug\net8.0\Barbearia Estética.dll
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\bin\Debug\net8.0\Barbearia Estética.pdb
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\obj\Debug\net8.0\Barbearia Estética.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\obj\Debug\net8.0\Barbearia Estética.AssemblyInfoInputs.cache
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\obj\Debug\net8.0\Barbearia Estética.AssemblyInfo.cs
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\obj\Debug\net8.0\Barbearia Estética.csproj.CoreCompileInputs.cache
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\obj\Debug\net8.0\Barbearia Estética.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\obj\Debug\net8.0\Barbearia Estética.RazorAssemblyInfo.cache
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\obj\Debug\net8.0\Barbearia Estética.RazorAssemblyInfo.cs
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\obj\Debug\net8.0\Barbearia Estética.sourcelink.json
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\obj\Debug\net8.0\staticwebassets\msbuild.Barbearia Estética.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\obj\Debug\net8.0\staticwebassets\msbuild.build.Barbearia Estética.props
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Barbearia Estética.props
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Barbearia Estética.props
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\obj\Debug\net8.0\scopedcss\bundle\Barbearia Estética.styles.css
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\obj\Debug\net8.0\scopedcss\projectbundle\Barbearia Estética.bundle.scp.css
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\obj\Debug\net8.0\Barbearia Estética.dll
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\obj\Debug\net8.0\refint\Barbearia Estética.dll
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\obj\Debug\net8.0\Barbearia Estética.pdb
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\obj\Debug\net8.0\Barbearia Estética.genruntimeconfig.cache
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Site-Barbearia-Estetica\Barbearia Estética\obj\Debug\net8.0\ref\Barbearia Estética.dll
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Barbearia Estética\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Barbearia Estética\bin\Debug\net8.0\appsettings.json
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Barbearia Estética\bin\Debug\net8.0\Barbearia Estética.staticwebassets.runtime.json
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Barbearia Estética\bin\Debug\net8.0\Barbearia Estética.exe
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Barbearia Estética\bin\Debug\net8.0\Barbearia Estética.deps.json
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Barbearia Estética\bin\Debug\net8.0\Barbearia Estética.runtimeconfig.json
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Barbearia Estética\bin\Debug\net8.0\Barbearia Estética.dll
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Barbearia Estética\bin\Debug\net8.0\Barbearia Estética.pdb
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Barbearia Estética\obj\Debug\net8.0\Barbearia Estética.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Barbearia Estética\obj\Debug\net8.0\Barbearia Estética.AssemblyInfoInputs.cache
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Barbearia Estética\obj\Debug\net8.0\Barbearia Estética.AssemblyInfo.cs
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Barbearia Estética\obj\Debug\net8.0\Barbearia Estética.csproj.CoreCompileInputs.cache
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Barbearia Estética\obj\Debug\net8.0\Barbearia Estética.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Barbearia Estética\obj\Debug\net8.0\Barbearia Estética.RazorAssemblyInfo.cache
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Barbearia Estética\obj\Debug\net8.0\Barbearia Estética.RazorAssemblyInfo.cs
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Barbearia Estética\obj\Debug\net8.0\Barbearia Estética.sourcelink.json
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Barbearia Estética\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Barbearia Estética\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Barbearia Estética\obj\Debug\net8.0\staticwebassets\msbuild.Barbearia Estética.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Barbearia Estética\obj\Debug\net8.0\staticwebassets\msbuild.build.Barbearia Estética.props
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Barbearia Estética\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Barbearia Estética.props
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Barbearia Estética\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Barbearia Estética.props
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Barbearia Estética\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Barbearia Estética\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Barbearia Estética\obj\Debug\net8.0\scopedcss\bundle\Barbearia Estética.styles.css
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Barbearia Estética\obj\Debug\net8.0\scopedcss\projectbundle\Barbearia Estética.bundle.scp.css
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Barbearia Estética\obj\Debug\net8.0\Barbearia Estética.dll
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Barbearia Estética\obj\Debug\net8.0\refint\Barbearia Estética.dll
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Barbearia Estética\obj\Debug\net8.0\Barbearia Estética.pdb
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Barbearia Estética\obj\Debug\net8.0\Barbearia Estética.genruntimeconfig.cache
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Barbearia Estética\obj\Debug\net8.0\ref\Barbearia Estética.dll

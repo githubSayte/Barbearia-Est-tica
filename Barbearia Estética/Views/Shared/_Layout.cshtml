@@ -1,30 +1,66 @@
-﻿<!DOCTYPE html>
-<html lang="en">
+﻿
+<!DOCTYPE html>
+<html lang="pt-br">
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - Barbearia_Estética</title>
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />        
+    <!-- Title -->
+    <title>Elysium Beauty</title>
+    <!-- Inclusão da biblioteca Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+    <!-- Swiper CSS -->
+    <link rel="stylesheet" href="~/vendors/swiper/swiper.css" />
+
+    <!-- Magnific-Popup CSS -->
+    <link rel="stylesheet" href="~/vendors/magnific-popup/magnific-popup.css" />
+
+    <!-- Custom Stylesheets -->
+    <link rel="stylesheet" href="~/css/main.css" />    
+    <link rel="stylesheet" href="~/css/responsive.css" />
+
+
 </head>
 <body>
-    <header>
-       
-    </header>
-    <div class="container">
-        <main role="main" class="pb-3">
+
+
+    <div>
+        <main>
             @RenderBody()
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2024 - Barbearia_Estética - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+    <!-------------------- Footer Area (Start) -------------------->
+    <footer>
+        <div class="social">
+            <a href="#" class="fab fa-facebook-f"></a>
+            <a href="#" class="fab fa-twitter"></a>
+            <a href="#" class="fab fa-instagram"></a>
+            <a href="#" class="fab fa-linkedin-in"></a>
+        </div>
+
+        <div class="content">
+            <p>created by <span>AS_Designs</span> | all rights reserved</p>
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>  
+    <!-- Typed JS -->
+    <script src="~/vendors/typed/typed.js"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <!-- Magnific-Popup JS -->
     <script src="~/vendors/magnific-popup/jquery.magnific-popup.js"></script>
-    @await RenderSectionAsync("Scripts", required: false)
+    <!-- SWIPER JS -->
+    <script src="~/vendors/swiper/swiper.js"></script>
+
+    <!-- Magnific-Popup JS -->
+    <script src="~/vendors/magnific-popup/jquery.magnific-popup.js"></script>
+    <!-- Custom Script File -->
+    <script src="~/js/script.js"></script>
+    <script src="~/js/scroll-spy.js"></script>
+    <script src="~/js/counter-up.js"></script>
+    <script src="~/js/portfolio.js"></script>
+    <script src="~/js/testi-slider.js"></script>
+    <script src="~/js/blog-slider.js"></script>
 </body>
 </html>
