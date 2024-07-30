@@ -122,3 +122,4 @@ C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Barbearia Es
 C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Barbearia Estética\obj\Debug\net8.0\Barbearia Estética.pdb
 C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Barbearia Estética\obj\Debug\net8.0\Barbearia Estética.genruntimeconfig.cache
 C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Barbearia Estética\obj\Debug\net8.0\ref\Barbearia Estética.dll
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Barbearia Estética\Barbearia Estética\obj\Debug\net8.0\scopedcss\Views\Shared\_LayoutGereciamento.cshtml.rz.scp.css
