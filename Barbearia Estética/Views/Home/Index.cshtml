@@ -77,6 +77,13 @@
             display: block;
         }
     </style>
+
+    <style>
+        body {
+            font-family: 'Times New Roman', serif;
+        }
+    </style>
+   
 </head>
 <body>
 
@@ -92,7 +99,7 @@
         <!-- Logo -->
         <a class="logo" href="#home" style="display: flex; align-items: center; text-decoration: none;">
             <img src="~/images/Home/Home.jpeg" alt="home" style="width: 50px; height: 50px; margin-right: 10px;">
-            <h1>Barbearia Estética<br>no auge da beleza!</h1>
+            <h1 style="font-family: 'Times New Roman', serif; color: #91917a;">Barbearia Estética<br>no auge da beleza!</h1>
         </a>
 
         <!-- Logo End -->
@@ -105,7 +112,7 @@
 
             <span style="display: flex; align-items: center; margin-right: 20px;">
                 <i class="fas fa-info-circle fa-lg" aria-hidden="true" style="margin-right: 8px; color: #725f47;"></i>
-                <a href="#about" style="margin-left: 10px;">sobre</a>
+                <a href="#about" style="margin-left: 10px;">Sobre</a>
             </span>
 
             <span style="display: flex; align-items: center; margin-right: 20px;">
@@ -187,9 +194,9 @@
 
             <div class="content">
                 <div class="text">
-                    <h1> Olá, nós somos a Estética</h1>
-                        <h1>E temos a oferecer: <br> <span class="typing-text"></span></h1>
-                        <p>
+                    <h1 style="font-family: 'Times New Roman', serif; font-size: 60px;"> Olá, nós somos a Estética</h1>
+                    <h1 style="font-family: 'Times New Roman', serif; font-size: 30px;">E temos a oferecer: <br> <span class="typing-text" style="font-family: 'Times New Roman', serif;"></span></h1>
+                    <p style="font-family: 'Times New Roman', serif;">
                             Transformamos o seu visual com excelência e estilo,
                             <br>para que você esteja sempre no auge da sua beleza.
                         </p>
@@ -198,7 +205,12 @@
             </div>
 
             <div class="image">
-                <img src="~/images/Home/Home.jpeg" alt="Home-Image">
+                <img src="~/images/Home/Home.jpeg" alt="Home-Image" style="height: 400px;
+                width: 400px;
+                border-radius: 50% 50% 50% 50% / 30% 30% 70% 70%;
+                object-fit: cover;
+                border: 2px solid #91917a;">
+                
             </div>
 
         </div>
