@@ -95,6 +95,8 @@ section{
 /*--------------------- 0- Global CSS (End) ---------------------*/
 
 
+
+
 /*--------------------- 1- Heading CSS (Start) ---------------------*/
 .heading{
     margin-bottom: 2rem;
@@ -262,7 +264,8 @@ header #menu-btn:hover{
         width: 100px;
         border-radius: 50% 50% 50% 50% / 30% 30% 70% 70%;
         object-fit: cover;
-        border: 2px solid black;
+        border: 2px solid #91917a;
+        
     }
 
 .home .content{
@@ -476,34 +479,34 @@ header #menu-btn:hover{
     border-radius: 50rem;
 }
 
- .skill-item .box .progress-bar span{
-    display:block;
-    height:100%;
-    background: var(--purple);
-}
+    .skill-item .box .progress-bar span {
+        display: block;
+        height: 100%;
+        background: var(--grey);
+    }
 
  .skill-item.item1 .box:nth-child(1) .progress-bar span{
-    width:95%;
+    width:100%;
 }
 
  .skill-item.item1 .box:nth-child(2) .progress-bar span{
-    width:90%;
+    width:100%;
 }
 
  .skill-item.item1 .box:nth-child(3) .progress-bar span{
-    width:85%;
+    width:100%;
 }
 
 .skill-item.item2 .box:nth-child(1) .progress-bar span{
-    width:75%;
+    width:100%;
 }
 
  .skill-item.item2 .box:nth-child(2) .progress-bar span{
-    width:65%;
+    width:100%;
 }
 
  .skill-item.item2 .box:nth-child(3) .progress-bar span{
-    width:60%;
+    width:100%;
 }
 
 /*--------------------- 5- About Area CSS (End) ---------------------*/
@@ -619,9 +622,9 @@ header #menu-btn:hover{
             transition: all 0.5s linear;
 }
 
-.service-item:hover{
-    background-color: var(--purple);
-}
+    .service-item:hover {
+        background-color: white;
+    }
 
 .service-item i{
     color: var(--white);
